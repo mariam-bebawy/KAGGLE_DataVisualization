@@ -1,6 +1,6 @@
-# KAGGLE_DataCleaning
+# KAGGLE_DataVisualization
 Kaggle learning resources and tasks  
--- Data Cleaning
+-- Data Visualization  
 -- As required by Technocolabs Machine Leanring Internship Program
 
 ***
